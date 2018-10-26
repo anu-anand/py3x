@@ -9,3 +9,4 @@ learning sources
 [Practical Text Classification With Python and Keras on realpython](https://realpython.com/python-keras-text-classification/)  
 [Sublime text with python](https://realpython.com/setting-up-sublime-text-3-for-full-stack-python-development/)  
 [Pycharm documentation](https://www.jetbrains.com/pycharm/documentation/)  
+
