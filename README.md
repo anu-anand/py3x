@@ -13,5 +13,7 @@ learning sources
 [Tips for Python programmers](https://www.youtube.com/watch?v=c3FXQU3TyCU)  
 [Requests by Kenneth Reitz](https://github.com/requests/requests)  
 [Deep thoughts by Raymond Hettinger](https://rhettinger.wordpress.com/)  
+[Python with Mosh](https://www.youtube.com/watch?v=f79MRyMsjrQ&list=PLTjRvDozrdlxj5wgH4qkvwSOdHLOCx10f)  
+
 
 
